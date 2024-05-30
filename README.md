@@ -8,7 +8,7 @@ As an engineering student, I've immersed myself in the world of programming and 
 
 ### What I Master:
 
-- **Front-end**: ReactJS, JavaScript, HTML, SCSS, and CSS.
+- **Front-end**: ReactJS, JavaScript, HTML, SCSS, and CSS, JSP.
 - **Back-end**: Python, Java, C#, SQL, Flask, NodeJs, SpringBoot, Servlet, MySQL, MariaDB, MongoDB, and PostgreSQL.
 - **Pinciples**, SOLID, OOP. 
 ### My Hobbies:
