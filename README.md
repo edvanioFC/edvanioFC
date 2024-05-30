@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**edvanioFC/edvanioFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Edvanio! 👋
 
-Here are some ideas to get you started:
+## Fullstack Developer and Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As an engineering student, I've immersed myself in the world of programming and networks. My passion? Turning lines of code into incredible experiences! 🚀
+
+### What I Master:
+
+- **Front-end**: ReactJS, JavaScript, HTML, SCSS, and CSS.
+- **Back-end**: Python, Java, C#, SQL, Flask, NodeJs, SpringBoot, Servlet, MySQL, MariaDB, MongoDB, and PostgreSQL.
+- **Pinciples**, SOLID, OOP. 
+### My Hobbies:
+
+- 🎤 **Singing**: Music is my creative escape.
+- 🎸 **Learning to Play Guitar**: Chords and solos fascinate me.
+- 🎮 **Playing Video Games**: Because even developers need a break!
+
+Welcome to my digital realm! Explore my portfolio and discover how technology can change lives. 🌐✨
+
+🌱 Currently, I'm learning to play the guitar and diving into the worlds of Russian, Solidity, and blockchain.
+
