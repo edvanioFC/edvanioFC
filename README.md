@@ -2,7 +2,7 @@
 
 # I'm Edvanio! 👋
 
-## Fullstack Developer and Tech Enthusiast
+## Developer and Tech Enthusiast
 
 As an engineering student, I've immersed myself in the world of programming and networks. My passion? Turning lines of code into incredible experiences! 🚀
 
